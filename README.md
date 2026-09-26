@@ -18,7 +18,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="img/giphy.gif"  />
+<img data-importer="image" align="center" height="200" src="img/giphy.gif"  />
 
 
 ###
